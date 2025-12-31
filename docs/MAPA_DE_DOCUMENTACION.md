@@ -13,6 +13,9 @@ Este documento explica **para qué sirve cada archivo** en esta carpeta y **cóm
 | **`N8N_WORKFLOW_SPEC.md`** | Plano técnico del flujo de n8n. | Solo si cambias la lógica interna de n8n (nodos). |
 | **`PROJECT_OVERVIEW_ES.md`** | Visión general del proyecto y sus objetivos. | Para leer de qué va el proyecto. |
 | **`TECHNICAL_REFERENCE_ES.md`** | Detalles técnicos para programadores (Python, rutas, librerías). | Si vas a tocar el código Python. |
+| **`GUIA_EJECUCION.md`** | Guía técnica de comandos y flags (avanzado). | Si `MANUAL_USUARIO` se te queda corto. |
+| **`ROADMAP_SCALABILITY_ES.md`** | Planes de futuro (Escalar a 1000 videos, Voz Clondada, etc.). | Para ver qué sigue en v1.002+. |
+| **`*_EN.md`** | Versiones en Inglés de los documentos. | Si prefieres leer en inglés. |
 
 
 ---
