@@ -1,0 +1,20 @@
+{
+    "titulo": "Prueba URL Download",
+    "nicho": "Creepy",
+    "escenas": [
+        {
+            "texto": "Esta es una prueba de descarga de imágenes desde internet.",
+            "path_imagen": "https://dummyimage.com/1080x1920/000/fff.jpg&text=Scene+1",
+            "duracion_estimada": 3
+        },
+        {
+            "texto": "Si ves esto, el script descargó esta imagen correctamente.",
+            "path_imagen": "https://dummyimage.com/1080x1920/550000/fff.jpg&text=Scene+2",
+            "duracion_estimada": 3
+        }
+    ],
+    "configuracion": {
+        "musica_fondo": null,
+        "volumen_musica": 0.3
+    }
+}

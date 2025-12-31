@@ -1,0 +1,37 @@
+{
+    "titulo": "La Plaga del Baile",
+    "nicho": "History",
+    "hook_visual": "Una calle medieval oscura donde la gente baila frenéticamente hasta caer muerta, estilo grabado antiguo animado.",
+    "duracion_estimada": 55,
+    "configuracion": {
+        "musica": "mystery.mp3",
+        "volumen_musica": 0.3
+    },
+    "escenas": [
+        {
+            "texto": "¿Sabías que en 1518, una ciudad entera comenzó a bailar hasta la muerte? Todo comenzó cuando una mujer, Frau Troffea, salió a las calles de Estrasburgo y empezó a bailar sin música y sin descanso.",
+            "descripcion_visual": "Medieval woman dancing uncontrollably in a cobbled street, exhausted face, dirty dress, cinematic lighting, photorealistic, 8k, vertical ratio 9:16",
+            "duracion": 9.0
+        },
+        {
+            "texto": "Al principio parecía una broma, pero en una semana, treinta personas se le habían unido. En un mes, eran cuatrocientos. No podían detenerse. Sus pies sangraban, sufrían infartos y colapsaban por agotamiento puro.",
+            "descripcion_visual": "Crowd of hundreds of medieval people dancing frantically in a town square, chaos, sweat, exhaustion, dark atmosphere, photorealistic, 8k, vertical ratio 9:16",
+            "duracion": 11.0
+        },
+        {
+            "texto": "Los médicos de la época, desconcertados, diagnosticaron 'sangre caliente'. Su extraña solución fue terrible: construyeron un escenario y contrataron músicos para que bailaran aún más, creyendo que así se curarían.",
+            "descripcion_visual": "Wooden stage in medieval market with musicians playing flutes and drums, people dancing like zombies, historical painting style, 8k, vertical ratio 9:16",
+            "duracion": 10.0
+        },
+        {
+            "texto": "Fue un error fatal. La música solo alimentó la histeria colectiva. Docenas murieron bailando bajo el sol abrasador. Hasta hoy, nadie sabe si fue un hongo alucinógeno en el pan o una psicosis masiva por el estrés de la hambruna.",
+            "descripcion_visual": "Close up of medieval bread with mold, fading into a chaotic dancing scene, dark and mysterious, cinematic lighting, 8k, vertical ratio 9:16",
+            "duracion": 11.5
+        },
+        {
+            "texto": "La Plaga del Baile sigue siendo uno de los misterios más extraños de la historia humana. ¿Te imaginas morir porque tu cuerpo no puede dejar de moverse?",
+            "descripcion_visual": "Eerie silence in an empty medieval street, one shoe left on the cobblestones, fog, cinematic lighting, photorealistic, 8k, vertical ratio 9:16",
+            "duracion": 8.0
+        }
+    ]
+}

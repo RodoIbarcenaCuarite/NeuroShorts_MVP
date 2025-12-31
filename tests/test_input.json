@@ -1,0 +1,20 @@
+{
+    "titulo": "Prueba Creepy",
+    "nicho": "Creepy",
+    "escenas": [
+        {
+            "texto": "¿Sabías que la oscuridad te observa cuando duermes?",
+            "path_imagen": "d:\\RODO\\Proyectos\\ShortsYoutube\\NeuroShorts_MVP\\assets\\Creepy\\test_bg_1.jpg",
+            "duracion_estimada": 4.0
+        },
+        {
+            "texto": "Tu cerebro inventa monstruos para mantenerte alerta.",
+            "path_imagen": "d:\\RODO\\Proyectos\\ShortsYoutube\\NeuroShorts_MVP\\assets\\Creepy\\test_bg_2.jpg",
+            "duracion_estimada": 4.0
+        }
+    ],
+    "configuracion": {
+        "musica_fondo": "d:\\RODO\\Proyectos\\ShortsYoutube\\NeuroShorts_MVP\\assets\\Creepy\\ambient.mp3",
+        "volumen_musica": 0.2
+    }
+}

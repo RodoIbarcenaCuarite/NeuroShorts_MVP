@@ -1,0 +1,17 @@
+# System
+.env
+venv/
+__pycache__/
+*.pyc
+
+# Local Folders
+temp/
+output/
+PRODUCCION/
+assets/
+*.mp4
+*.mp3
+
+# IDE
+.vscode/
+.idea/
